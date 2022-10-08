@@ -1,0 +1,52 @@
+/*:root{ 
+    --arxa_fon: red; 
+}*/ 
+ 
+.demo{ 
+    background: #FDC200; 
+} 
+ 
+.main{ 
+    width: 1000px; 
+    min-height: 780px; 
+ 
+} 
+ 
+.header{ 
+    width: 1000px; 
+    min-height: 120px; 
+    float: left; 
+    margin-bottom: 20px; 
+} 
+ 
+.naa{ 
+    width: 1000px; 
+    min-height: 500px; 
+    float: left 
+} 
+.nav{ 
+    width: 240px; 
+    min-height: inherit; 
+    float: left; 
+} 
+ 
+.article{ 
+    width: 520px; 
+    min-height: inherit; 
+    float: left; 
+    margin: 0 20px; 
+ 
+} 
+ 
+.ads{ 
+    width: 200px; 
+    min-height: inherit; 
+    float: left; 
+} 
+ 
+.footer{ 
+    width: 1000px; 
+    min-height: 120px; 
+    float: left; 
+    margin-top: 20px; 
+}
